@@ -1,4 +1,6 @@
 # 🙌🙌🙌🙌 The Basics of GitHub 
+![image](https://user-images.githubusercontent.com/2996352/235728788-905e2946-cfae-4c8f-bfd4-6aa1db3a3fe3.png)
+
 
 ## 🤓 Course overview and learning outcomes 
 
